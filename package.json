@@ -1,5 +1,5 @@
 {
-  "name": "@ruhith/generate-robots-text",
+  "name": "generate-robots-text",
   "version": "1.0.0",
   "description": "Generate Robots.txt file with your custom configs",
   "main": "src/index.js",
