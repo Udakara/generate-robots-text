@@ -30,5 +30,10 @@
     "esm": "^3.2.25",
     "inquirer": "^8.1.1",
     "ncp": "^2.0.0"
-  }
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Udakara/generate-robots-text.git"
+  },
+  "homepage": "https://github.com/Udakara/generate-robots-text#readme"
 }
