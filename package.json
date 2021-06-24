@@ -1,0 +1,34 @@
+{
+  "name": "@ruhith/generate-robots-text",
+  "version": "1.0.0",
+  "description": "Generate Robots.txt file with your custom configs",
+  "main": "src/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "bin": {
+    "@ruhith/generate-robot" : "bin/generate-robottext",
+    "generate-robot": "bin/generate-robottext"
+  },
+  "keywords": [
+    "robots.txt",
+    "cli",
+    "react",
+    "vue",
+    "generate"
+  ],
+  "files": [
+    "bin/",
+    "src/",
+    "templates/"
+  ],
+  "author": "ruhith",
+  "license": "ISC",
+  "dependencies": {
+    "arg": "^5.0.0",
+    "chalk": "^4.1.1",
+    "esm": "^3.2.25",
+    "inquirer": "^8.1.1",
+    "ncp": "^2.0.0"
+  }
+}
