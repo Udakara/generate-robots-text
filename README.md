@@ -2,9 +2,9 @@
 
 Generate Robots.txt file with your custom configs
 
-##Installation
+## Installation
 
-##Usage
+## Usage
 
 1. After installation first create the main config file by running the following command
 
